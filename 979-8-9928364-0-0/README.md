@@ -39,5 +39,7 @@ If you use this book as a reference, please include the following citation:
 
 ---
 
-ℹ️ **Disclaimer:** This repository is for hosting open access information related to this book. For any inquiries, please contact the author or the Rockefeller Publishing Co.
+ℹ️ **Disclaimer:** This repository is for hosting open-access information related to this book. For any inquiries, please contact [the Rockefeller Publishing Co.]([https://www.microsoft.com](https://www.rockefellerpub.com/))
+
+
 
